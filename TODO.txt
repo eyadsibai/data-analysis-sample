@@ -1,0 +1,16 @@
+Great post! I have also found useful:
+- Record the (Git) revision number of my code for each run.
+- Use GNU make to manage the pipeline of downloading, training, evaluating, etc.
+-----
+
+https://github.com/jtleek/datasharing
+http://blog.david-andrzejewski.com/machine-learning/practical-machine-learning-tricks-from-the-kdd-2011-best-industry-paper/
+http://arkitus.com/patterns-for-research-in-machine-learning/
+https://asperous.us/pipeless/
+http://blog.mpacula.com/2011/02/17/unit-testing-statistical-software/
+http://scikit-learn.org/stable/modules/pipeline.html
+
+configparser
+http://scikit-learn.org/stable/auto_examples/grid_search_text_feature_extraction.html
+
+http://gaelvaroquaux.github.io/scikit-learn-tutorial/putting_together.html
