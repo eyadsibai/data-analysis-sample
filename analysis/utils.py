@@ -4,7 +4,7 @@ import scipy as sp
 
 def log_loss(predicted, actual):
     """ Vectorized computation of log loss """
-
+    assert(len(predicted), len(actual))
     epsilon = 1e-15
     predicted = sp.maximum(epsilon, predicted)
     predicted = sp.minimum(1 - epsilon, predicted)

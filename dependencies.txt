@@ -1,0 +1,2 @@
+- install vowpal wabbit
+https://github.com/JohnLangford/vowpal_wabbit
